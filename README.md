@@ -4,6 +4,7 @@ Personal work done on https://www.kaggle.com/marloz
 Kernel ideas:
 * Missing value imputation: constant, median-most frequent, MICE
 * Preprocessing: encoders and scalers
+* Sampling: random, stratified, over/under/SMOTE, cluster based
 * Feature generation: aggregators for categoricals and numericals, featuretools 
 * Feature selection: univariate, recursive, importance based
 * Model selection: bagging, boosting, regression, svm, nn
